@@ -3,5 +3,5 @@ title: Just Test new Blog Themes
 description: Open Source Developer and Indie Games Developer
 keywords: Arcestia, Blogging, Fun
 author: Arcestia
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/v2" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
